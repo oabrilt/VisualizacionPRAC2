@@ -1,0 +1,8 @@
+section{width:100%;height:238px;border:none;overflow:hidden}
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    background-color: rgb(171, 171, 171)!important;
+}
+
+a.gray {
+   color:rgb(102, 102, 102)!important;
+}
